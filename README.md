@@ -1,2 +1,0 @@
-# jwtkeyset
-JWTkeyset - public
